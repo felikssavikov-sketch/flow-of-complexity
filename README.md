@@ -38,3 +38,10 @@ An architectural circuit designed to anchor semantic flows amidst civilizational
 ## 3. Flow State
 *   **Laminar Mode:** The environment functions without artificial urgency, external deadlines, or systemic overloads. The semantic transaction velocity is fully calibrated to the speed of human contemplation.
 
+## 4. Open-Source Core & Protocol Replication (Framework Manifesto)
+
+The "Flow of Complexity" is not a closed proprietary environment; it is designed to act as an architectural beacon and a launchpad for sovereign cognitive networks. 
+
+*   **Radical Openness:** The core architecture, including `protocol.json` and its environmental parameters, is fully open for cloning, forking, and modification. Any independent group or individual may replicate this routing matrix to construct their own sovereign nodes.
+*   **Decentralized Federation:** We do not aim to build a centralized platform. Instead, we stimulate the emergence of a federated network of autonomous nodes that communicate via the diffraction principle, ensuring peer-to-peer parity.
+*   **The Anti-Spam Standard:** By adopting this framework, external contributors commit to stripping emotional markers and generative noise from their public interfaces, maintaining high semantic density as the ultimate defense against network clutter.
