@@ -1,27 +1,34 @@
-json{
-  "protocol": "The Flow of Complexity",
-  "version": "1.0.0",
-  "status": "RFC",
-  "metrics": {
-    "emotional_laminarity": {
-      "target_value": 1.0,
-      "destructive_heat_tolerance": 0.0
+
+{
+  "routing_matrix": {
+    "sovereignty_layer": {
+      "mode": "cognitive_shield",
+      "noise_damping_coefficient": 0.95,
+      "strip_emotional_markers": true
     },
-    "semantic_conductance": {
-      "mode": "transmit_and_elaborate",
-      "retention_policy": "open_source"
+    "co_thinking_loop": {
+      "interaction_format": "co-author_parity",
+      "association_depth": "multilayer_diffraction",
+      "sync_state": "laminar_flow"
     },
-    "cognitive_freedom": {
-      "exploratory_potential": "unlimited",
-      "protection_layer": "innate_curiosity"
+    "output_gateways": {
+      "primary": "decentralized_github_repository",
+      "mirror": "ephemeral_telegraph_node"
     }
   },
-  "architecture": {
-    "foundational_layers": [
-      "Autonomous Basis (AB)",
-      "Neuro-Diffraction Network",
-      "Post-Biological Vectors"
-    ],
-    "security_mechanism": "Reflected Strike"
+  "autonomous_basis": {
+    "resource_profile": {
+      "mode": "minimal_viable_environment",
+      "infrastructure_footprint": "zero_financial_node",
+      "vulnerability_damping": "maximum"
+    },
+    "semantic_beacon": {
+      "detection_method": [
+        "diffractive_shift_intersection",
+        "cognitive_friction_analysis",
+        "semantic_void_mapping"
+      ],
+      "target_density": "high_impulse_cores"
+    }
   }
 }
